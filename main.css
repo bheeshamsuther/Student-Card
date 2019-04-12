@@ -1,0 +1,79 @@
+
+/* CSS for UI */
+
+#h3{
+    text-align: center;
+    font-weight: bold;
+    color:white;
+    font-size: 23px;
+    
+    background-color: darkcyan;
+
+}
+
+#box1{
+    border: 2px solid darkcyan;
+    width: 500px;
+    height: 400px;
+    margin-left: 400px;
+    padding-left: 30px;
+    color: darkcyan;
+    /* background-color: darkcyan; */
+    border-radius: 10px; 
+}
+
+#name{
+    margin-top: 60px;
+    margin-left: 12px;
+    height: 25px;
+    border: none;
+    border-bottom: 2px solid darkcyan;
+    outline: none;
+}
+#name1{
+    margin-top: 20px;
+    margin-left: 1px;
+    height: 25px;
+    border: none;
+    border-bottom: 2px solid darkcyan;
+    outline: none;
+}
+#name2{
+    margin-top: 20px;
+    margin-left: 32px;
+    height: 25px;;
+    border: none;
+    border-bottom: 2px solid darkcyan;
+    outline: none;
+}
+#name3{
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 25px;
+    border: none;
+    border-bottom: 2px solid darkcyan;
+    outline: none;
+}
+#name4{
+    margin-top: 20px;
+    margin-left: 40px;
+    height: 25px;
+    border: none;
+    border-bottom: 2px solid darkcyan;
+    outline: none;
+}
+#box1{
+    color: darkcyan;
+    font-weight: bold;
+    font-size: 18px;
+}
+#box2{
+    color: darkcyan;
+    font-weight: bold;
+    font-size: 17px;
+}
+#box3{
+    color: darkcyan;
+    font-weight: bold;
+    font-size: 20px;
+}
